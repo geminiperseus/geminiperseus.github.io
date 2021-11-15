@@ -48,7 +48,7 @@ linkedin_username: https://www.linkedin.com/in/geminiperseus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  An AWS certified technology professional with 19 years of technical experience in product development and management. Recognized success in creating products from ideation to POC to production. Rich experience of technology leadership in conceptualizing products, formulating technical roadmaps, building/managing high performance teams, delivering award winning products and creating business value.<br />
+  An AWS certified technology professional with 19 years of technical experience in product development and management. Recognized success in creating products from ideation to POC to production. Rich experience of technology leadership in conceptualizing products, formulating technical roadmaps, building/managing high performance teams, delivering award winning products and creating business value.<br /><br />
   I am most skilled in: <mark>Java</mark>, <mark>Spark</mark>, <mark>Spring</mark>, <mark>AWS</mark> and <mark>Angular</mark>
 
 content:      
