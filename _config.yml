@@ -61,10 +61,10 @@ content:
         link: github.com/geminiperseus
         # link_text: Project Website
         additional_links:
-          - title:  geminiperseus.github.io
+          - title:  geminiperseus/geminiperseus.github.io
             icon: fab fa-github
             url: github.com/geminiperseus
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          # - title:  Github page for project (eg. geminiperseus/geminiperseus.github.io)
           #   icon: fab fa-github
           #   url: Link to project 
         quote: >
