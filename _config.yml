@@ -90,17 +90,47 @@ content:
         link: www.capitalone.org
         #  link_text: tiaa.org
         sub_title: Solutions Architect
-        caption: October 2011 - September 2016
+        caption: September 2011 - September 2016
         quote: >
           Big Data
         description: | # this will include new lines to allow paragraphs
             I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
       - layout: left
-        title: Capital One
-        link: www.capitalone.org
+        title: State of Maryland
+        link: www.courts.state.md.us
         #  link_text: tiaa.org
-        sub_title: Solutions Architect
-        caption: October 2011 - September 2016
+        sub_title: Senior Java Engineer
+        caption: October 2010 - September 2011
+        quote: >
+          Big Data
+        description: | # this will include new lines to allow paragraphs
+            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: left
+        title: Express Scripts
+        link: www.express-scripts.com
+        #  link_text: tiaa.org
+        sub_title: Senior Java Engineer
+        caption: June 2010 - October 2010
+        quote: >
+          Big Data
+        description: | # this will include new lines to allow paragraphs
+            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: right
+        title: State of Maryland
+        link: www.courts.state.md.us
+        #  link_text: tiaa.org
+        sub_title: Senior Java Engineer
+        caption: July 2009 - June 2010
+        quote: >
+          Big Data
+        description: | # this will include new lines to allow paragraphs
+            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - layout: left
+        title: Jackson National Life Insurance
+        link: www.jackson.com
+        #  link_text: tiaa.org
+        sub_title: Senior Java Engineer
+        caption: June 2008 - June 2009
         quote: >
           Big Data
         description: | # this will include new lines to allow paragraphs
