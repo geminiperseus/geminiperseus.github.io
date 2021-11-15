@@ -95,6 +95,16 @@ content:
           Big Data
         description: | # this will include new lines to allow paragraphs
             I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: left
+        title: Capital One
+        link: www.capitalone.org
+        #  link_text: tiaa.org
+        sub_title: Solutions Architect
+        caption: October 2011 - September 2016
+        quote: >
+          Big Data
+        description: | # this will include new lines to allow paragraphs
+            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,8 +117,6 @@ content:
           A child without education is like a bird without wings.          
         description: | # this will include new lines to allow paragraphs
           During my time at UCP I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: When I'm Not Programming
     layout: text
