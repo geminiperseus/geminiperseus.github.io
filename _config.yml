@@ -85,13 +85,15 @@ content:
           Big Data
         description: | # this will include new lines to allow paragraphs
             Fee Calc Engine:
-   content:
-      - layout: right
+  - title: # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: Capital One
-        link: www.capitalone.com
+        link: www.capitalone.org
         #  link_text: tiaa.org
-        sub_title: Senior Solutions Architect
-        caption: September 2016 - Present
+        sub_title: Solutions Architect
+        caption: October 2011 - May 2017
         quote: >
           Big Data
         description: | # this will include new lines to allow paragraphs
