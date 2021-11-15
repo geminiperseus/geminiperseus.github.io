@@ -131,10 +131,7 @@ content:
 
 # Footer
 footer_show_references: false
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
+# references_title: References on request (Override references text
 
 sass:
   sass_dir: _sass
