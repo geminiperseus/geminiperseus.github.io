@@ -85,7 +85,7 @@ content:
           Big Data
         description: | # this will include new lines to allow paragraphs
             Fee Calc Engine:
-   
+   content:
       - layout: right
         title: Capital One
         link: www.capitalone.com
