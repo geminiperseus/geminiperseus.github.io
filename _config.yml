@@ -1,31 +1,31 @@
 # Site
-repository: sproogen/resume-theme
+repository: geminiperseus.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Hur Muhammad
+title: Solutions Architect
+email: hur.info@gmail.com
+website: www.github.com/geminiperseus
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: https://www.linkedin.com/in/geminiperseus
+github_username:  geminiperseus
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: https://www.linkedin.com/in/geminiperseus
+linkedin_username: https://www.linkedin.com/in/geminiperseus
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
