@@ -136,6 +136,15 @@ content:
         description: | # this will include new lines to allow paragraphs
             I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+  - title: Previous Experience
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Ciberwiz Inc : January 2008 – June 2008 Senior Java Engineer
+      - First State Bank of East Detroit : June 2006 – December 2007 Java Engineer
+      - Globe Tech, Inc, Detroit: February 2005 – June 2006 Java Engineer
+      - Expert Desk (Pvt. Ltd), Lahore: April 2004 – December 2004 Analyst/Java Developer
+      - Power Developers Inc, Gujranwala: January 2002 – April 2004 Java Developer
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
