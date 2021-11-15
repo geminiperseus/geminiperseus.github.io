@@ -61,7 +61,7 @@ content:
         link: github.com/geminiperseus
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  geminiperseus/resume
             icon: fab fa-github
             url: github.com/geminiperseus
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
