@@ -48,30 +48,19 @@ linkedin_username: https://www.linkedin.com/in/geminiperseus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hur and I'm a solutions architect. I have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  An AWS certified technology professional with 19 years of technical experience in product development and management. Recognized success in creating products from ideation to POC to production. Rich experience of technology leadership in conceptualizing products, formulating technical roadmaps, building/managing high performance teams, delivering award winning products and creating business value.
   I am most skilled in: <mark>Java</mark>, <mark>Spark</mark>, <mark>Spring</mark>, <mark>AWS</mark> and <mark>Angular</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/geminiperseus
-        # link_text: Project Website
-        additional_links:
-          - title: geminiperseus/geminiperseus.github.io
-            icon: fab fa-github
-            url: github.com/geminiperseus
-          # - title:  Github page for project (eg. geminiperseus/geminiperseus.github.io)
-          #   icon: fab fa-github
-          #   url: Link to project 
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  - title: Value Proposition # Title for the section
+    layout: text # Type of content section (list/text)
+    content: 
+      - Transforming business needs to value driven solutions in collaboration with all stakeholders
+      - Leading large, complex global products delivery with major focus on Big Data, AI/ML and Cloud technologies
+      - Consistently leading complex, challenging, high visible, fast-paced and demanding firm wide initiatives
+      - Driving Artificial Intelligence/Machine Learning (AI/ML) strategy and Public Cloud blueprints for products transformation within a technology organization
+      - Creating business value through successful AI/ML and Cloud POCs leading to solutions in production
+      - Promoting inclusiveness and partnership by engaging all required teams to build solutions
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
