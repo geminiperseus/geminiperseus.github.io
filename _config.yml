@@ -52,6 +52,15 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Java</mark>, <mark>Spark</mark>, <mark>Spring</mark>, <mark>AWS</mark> and <mark>Angular</mark>
 
 content:
+  - title: Previous Experience
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Ciberwiz Inc : January 2008 – June 2008 Senior Java Engineer
+      - First State Bank of East Detroit : June 2006 – December 2007 Java Engineer
+      - Globe Tech, Inc, Detroit: February 2005 – June 2006 Java Engineer
+      - Expert Desk (Pvt. Ltd), Lahore: April 2004 – December 2004 Analyst/Java Developer
+      - Power Developers Inc, Gujranwala: January 2002 – April 2004 Java Developer
+      
   - title: Value Proposition # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
