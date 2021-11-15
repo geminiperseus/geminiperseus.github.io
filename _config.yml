@@ -54,13 +54,14 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Value Proposition # Title for the section
     layout: text # Type of content section (list/text)
-    content: 
+    content: | 
       - Transforming business needs to value driven solutions in collaboration with all stakeholders
       - Leading large, complex global products delivery with major focus on Big Data, AI/ML and Cloud technologies
       - Consistently leading complex, challenging, high visible, fast-paced and demanding firm wide initiatives
       - Driving Artificial Intelligence/Machine Learning (AI/ML) strategy and Public Cloud blueprints for products transformation within a technology organization
       - Creating business value through successful AI/ML and Cloud POCs leading to solutions in production
       - Promoting inclusiveness and partnership by engaging all required teams to build solutions
+      
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
