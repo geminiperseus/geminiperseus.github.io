@@ -120,7 +120,7 @@ content:
           - Build an automation framework from scratch for Sassy application.
           - Used Cucumber Selenium and Java to create the automation framework.
           - Worked with teams to implement Hystrix in our APIs to make APIs more stable.<br />
-          <mark>Environment<mark> Version 1, JIRA, Velocity, PL/SQL Developer, Eclipse 3.4, SVN, Spring 3.0, JBPM, AngularJS, jQuery, Jersey, Junit, AEM 6.0, Log4J, ATDD, Cucumber, Selenium, Hystrix
+          <mark>Environment</mark> Version 1, JIRA, Velocity, PL/SQL Developer, Eclipse 3.4, SVN, Spring 3.0, JBPM, AngularJS, jQuery, Jersey, Junit, AEM 6.0, Log4J, ATDD, Cucumber, Selenium, Hystrix
       - layout: left
         title: State of Maryland
         link: www.courts.state.md.us
@@ -128,7 +128,20 @@ content:
         sub_title: Senior Java Engineer
         caption: October 2010 - September 2011
         description: | # this will include new lines to allow paragraphs
-            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          <mark>Case Management System</mark> This application is designed to deal with the cases in the State of Maryland. We designed and developed the project to convert the existing data from legacy database to the domain model.<br /> <br />
+          <mark>Responsibilities</mark><br />
+          - Designed the application from scratch and gathered all the information from Business Analysts.
+          - Involved in Error handling and displaying error messages in the client UI.
+          - Used Agile to meet the deadlines and finish the project in time.
+          - Used Log4j for logging and debugging.
+          - Used Junit for writing test cases for the classes.
+          - Used java to create the domain model for data migration.
+          - Used Spring 3.0 java-based configuration to wire beans together.
+          - Used JMock for test driven development. 
+          - Used JIRA for project and issue tracking during development to speed up the development process.
+          - Used hibernate to store the domain model in the oracle database.
+          - Wrote a test tool for data migration testing using Swing.<br />
+          <mark>Environment</mark> Agile, Java Beans, CVS, SQL Plus, Eclipse 3.4, Oracle 11g, Log4J, Junit, Win Merge,Spring 3.0, Putty, Hibernate 3.0, JMock, JIRA, Swing.
       - layout: left
         title: Express Scripts
         link: www.express-scripts.com
