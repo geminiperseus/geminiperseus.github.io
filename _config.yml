@@ -72,7 +72,7 @@ content:
         link: www.tiaa.org
         #  link_text: tiaa.org
         sub_title: Senior Solutions Architect
-        caption: September 2016 - Present<mark>
+        caption: September 2016 - Present
         description: | # this will include new lines to allow paragraphs
           - <b>Leading initiatives/strategy for driving widespread adoption</b>, deployment, and maturity of Intelligent Automation (Hadoop, Robotics), AWS Cloud and Artificial Intelligence/Machine Learning solutions. Leading end-to-end lifecycle of targeted intelligent workflow-based solutions.
           - <b>Increased application performance</b> by converting mapreduce jobs to java spark, by migrating those jobs to AWS on demand EMR cluster and also by writing an application to generate flat file consumed by mainframe.
