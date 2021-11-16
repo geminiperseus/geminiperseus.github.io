@@ -75,6 +75,21 @@ content:
           <mark>GOFOLIO</mark> Gofolio is the tool used by investment managers to create portfolios for clients. There are multiple options available to pick from such as equity, stocks etc.<br /> <br />
           <mark>SFV Designer</mark> SFV Designer is used by operations to create new services and features that are available in multiple other areas for investment managers to choose from.<br /> <br />
           <mark>Fee Calculation Engine</mark> Fee Calculation Engine is used to calculate fees for clients on their 401k services.<br /> <br />
+          <mark>Responsibilities</mark>
+          ● Enhanced and build new functions for GOFOLIO application.
+          ● Used free-maker template and jQuery to build the UI.
+          ● Build SFV designer from scratch using Angular 2 and Spring Boot.
+          ● Used rolling data sources in the application to store data in multiple databases.
+          ● Created automation scripts for testing.
+          ● Used Hadoop to calculate fees for clients.
+          ● Migrated Fee Calculation Engine from spark 1.6 to spark 2.
+          ● Migrated Fee Calculation Engine to AWS cloud to utilize better resources.
+          ● Used Apache Camel AWS along with S3 and SNS services.
+          ● Build business rules using Rule Book.
+          ● Wrote REST services to fetch data from Oracle database.
+          ● Used Log4j for logging and debugging.
+          ● Used J unit for writing test cases for the classes.
+          <mark>Environment:</mark> JIRA, Angular2, Free maker, PL/SQL Developer, AWS, Eclipse 3.4, Gitlab, Spring 3.0, jQuery, Jenkins, JUnit, Log4J, ATDD, Apache Camel, Cucumber, Selenium, Sonar, Java8
       - layout: left
         title: Capital One
         link: www.capitalone.org
