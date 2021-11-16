@@ -48,7 +48,7 @@ linkedin_username: https://www.linkedin.com/in/geminiperseus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Strategy and technology leader with expertise in delivering innovative solutions in digital transformation, cloud migration, intelligent automation, implementing cutting-edge technology solutions to provide better customer experience, boost business operations, reduce operating costs and increase revenue. Adept at developing relationship with all stakeholders such as business, tech, risk and dev ops, being able to speak their language and address all requirements. Experience in leveraging emerging technologies for start-up to Fortune 100 companies.
+  <br /> <br /> <br /> Strategy and technology leader with expertise in delivering innovative solutions in digital transformation, cloud migration, intelligent automation, implementing cutting-edge technology solutions to provide better customer experience, boost business operations, reduce operating costs and increase revenue. Adept at developing relationship with all stakeholders such as business, tech, risk and dev ops, being able to speak their language and address all requirements. Experience in leveraging emerging technologies for start-up to Fortune 100 companies.
 
 content:      
   - title: Value Proposition # Title for the section
