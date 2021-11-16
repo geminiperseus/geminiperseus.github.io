@@ -76,19 +76,19 @@ content:
           <mark>SFV Designer</mark> SFV Designer is used by operations to create new services and features that are available in multiple other areas for investment managers to choose from.<br /> <br />
           <mark>Fee Calculation Engine</mark> Fee Calculation Engine is used to calculate fees for clients on their 401k services.<br /> <br />
           <mark>Responsibilities</mark><br />
-          ● Enhanced and build new functions for GOFOLIO application.<br />
-          ● Used free-maker template and jQuery to build the UI.<br />
-          ● Build SFV designer from scratch using Angular 2 and Spring Boot.<br />
-          ● Used rolling data sources in the application to store data in multiple databases.<br />
-          ● Created automation scripts for testing.<br />
-          ● Used Hadoop to calculate fees for clients.<br />
-          ● Migrated Fee Calculation Engine from spark 1.6 to spark 2.<br />
-          ● Migrated Fee Calculation Engine to AWS cloud to utilize better resources.<br />
-          ● Used Apache Camel AWS along with S3 and SNS services.<br />
-          ● Build business rules using Rule Book.<br />
-          ● Wrote REST services to fetch data from Oracle database.<br />
-          ● Used Log4j for logging and debugging.<br />
-          ● Used J unit for writing test cases for the classes.<br /> <br />
+          - Enhanced and build new functions for GOFOLIO application.<br />
+          - Used free-maker template and jQuery to build the UI.<br />
+          - Build SFV designer from scratch using Angular 2 and Spring Boot.<br />
+          - Used rolling data sources in the application to store data in multiple databases.<br />
+          - Created automation scripts for testing.<br />
+          - Used Hadoop to calculate fees for clients.<br />
+          - Migrated Fee Calculation Engine from spark 1.6 to spark 2.<br />
+          - Migrated Fee Calculation Engine to AWS cloud to utilize better resources.<br />
+          - Used Apache Camel AWS along with S3 and SNS services.<br />
+          - Build business rules using Rule Book.<br />
+          - Wrote REST services to fetch data from Oracle database.<br />
+          - Used Log4j for logging and debugging.<br />
+          - Used J unit for writing test cases for the classes.<br /> <br />
           <mark>Environment:</mark> JIRA, Angular2, Free maker, PL/SQL Developer, AWS, Eclipse 3.4, Gitlab, Spring 3.0, jQuery, Jenkins, JUnit, Log4J, ATDD, Apache Camel, Cucumber, Selenium, Sonar, Java8
       - layout: left
         title: Capital One
