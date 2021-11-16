@@ -111,9 +111,9 @@ content:
         sub_title: Senior Java Engineer
         caption: June 2010 - October 2010
         description: | # this will include new lines to allow paragraphs
-          <b>Designed and Developed Interactive IVR Framework</b> to connect existing XML front end to existing web services using spring framework to provide interactive IVR experience without talking to a representative.
-          <b>Developed Exception Handling Framework</b> to display errors happening in the backend and middle ware on the UI.
-          <b>Designed and developed a testing frame work</b> using Selenium, Java, Junits, Mockito. 
+          - <b>Designed and Developed Interactive IVR Framework</b> to connect existing XML front end to existing web services using spring framework to provide interactive IVR experience without talking to a representative.
+          - <b>Developed Exception Handling Framework</b> to display errors happening in the backend and middle ware on the UI.
+          - <b>Designed and developed a testing frame work</b> using Selenium, Java, Junits, Mockito. 
       - layout: left
         title: State of Maryland
         link: www.courts.state.md.us
