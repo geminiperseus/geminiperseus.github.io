@@ -88,30 +88,14 @@ content:
         sub_title: Solutions Architect
         caption: September 2011 - September 2016
         description: | # this will include new lines to allow paragraphs
-          <mark>SASSy</mark> SASSy is a system used to handle inbound and outbound phone calls. The letters stand for “Sales Automated Selling System”. This application is written to deal with any customer related issues, and it has the ability to look up the entire details about any given customer.<br /> <br />
-          <mark>TranSite</mark> Capital One 360’s main website is referred as "transite" it provides customer with all the banking options including money transfers, ordering new checkbooks, add or remove joint account holder and much more.<br /> <br />
-          <mark>E-Brochure</mark> E-Brochure is the application that the café associates used to refer products to customers who visited the Capital One 360 cafe. This application is used to track the incentives for the associates along with sending the emails to customers. Application is built using REST APIs and Angular2.<br /> <br />
-          <mark>WESP-DGW</mark> Back end application at Capital One 360 is referred to as WESP-DGW. This application contains all the backend modules that we used to fetch home loans information, send email communications and connect to database to save or retrieve information. It was also used to connect to RTM web services that are located on the Capital One servers.<br /> <br />
-          <mark>ATDD Framework</mark> Lead a team of six developers to build an automation framework for Sassy Application using Selenium, Java & Cucumber. Also provided training to other team to start using this framework in their sprint work. Worked with other teams to implement ATDD.<br /> <br />
-          <mark>eAPI</mark> Converted existing WESP-DGW (SOPA based services) to REST eAPIs using Spring with Jersey framework.<br /> <br />
-          <mark>Responsibilities</mark><br />
-          - Enhanced and supported the bank website and the sales application.
-          - Build the E-Brochure application from scratch and configured it to use velocity template and spring.
-          - Used SVN and Git as code repository for the application along with Win merge as a merge tool.
-          - Used Spring 3.0 as the framework for the applications.
-          - Used Mockito and cucumber for test driven development.
-          - Used Version1 and JIRA for project and issue tracking during development to speed up the development process.
-          - Used Oracle as the database and wrote stored procedures to read and write data.
-          - Used e-cache to cache customer related data to enhance performance of the application.
-          - Used jQuery, AngularJS, XSLT and velocity template to develop the UI for the applications.
-          - Wrote web services and converted old Web services to new JAXB based objects.
-          - Migrated JBPM workflows to AWS simple workflow service and simple notification service.
-          - Designed and wrote public and private eAPIs to fetch accounts and customer information.
-          - Implemented ATDD in our regular sprint work.
-          - Build an automation framework from scratch for Sassy application.
-          - Used Cucumber Selenium and Java to create the automation framework.
-          - Worked with teams to implement Hystrix in our APIs to make APIs more stable.<br />
-          <mark>Environment</mark> Version 1, JIRA, Velocity, PL/SQL Developer, Eclipse 3.4, SVN, Spring 3.0, JBPM, AngularJS, jQuery, Jersey, Junit, AEM 6.0, Log4J, ATDD, Cucumber, Selenium, Hystrix
+          Reported to Senior Director. Executed multiple projects for Bank and Card division by managing strategy and operations whilst ensuring adherence to regulatory compliance like ADA, CFPB, AML, FDIC and Dodd-Frank. <br/> <br/>
+          - <b>Implemented Robotic Automation</b> in Call Centers and Mortgage Line of Business: Led product strategy, architecture and development for the pioneer initiative to implement Robotic automations in Capital One call centers. Automated and deployed 16 processes across 5 call centers that resulted in anticipated saving ~3 million dollars in the very first year.  Responsible for architecture design, coding, testing and product release. 
+          - <b>Implemented the next gen CTI/IVR platform</b> for Contact Centers:  Evaluated next gen CTI/IVR platforms for Retail Banking Contact Centers from various vendors such as Avaya and Cisco. Integrated Omni-Channel platforms that resulted from acquisitions. Implemented Voice Biometric Authentication using NICE platform in contact centers for customer authentication.
+          - <b>Led AWS Cloud Migration and Enterprise Product Development:</b> As solution architect led the cloud first initiative by migrating their existing legacy applications to AWS platform. Re-engineered architecture by moving from traditional web services to APIs and micro services. Led and manage multiple agile development teams (on Java, Cassandra, ASP.NET, C#, SQL Server, Node.js, jQuery and JS using RESTful API’s and micro services-). DevOps and Automation using CICD tools such as Jenkins/Maven). 
+          - <b>Developed EBrochure:</b> Developed EBrochure application using angular JS and Reset APIs. This application is used to refer new clients that visit Capital One Café.
+          - <b>Developed automated call routing:</b> Developed automated call routing for customers who contacted capital one customer services based on customer activity on the website or mobile application. This reduced call time by approximately 50%.
+          - <b>Developed Automation Framework:</b> Led a team to develop an automation framework (using selenium, cucumber and java) which was used to automate the testing of capital one 360 website and call center application.
+
       - layout: left
         title: State of Maryland
         link: www.courts.state.md.us
@@ -119,20 +103,7 @@ content:
         sub_title: Senior Java Engineer
         caption: October 2010 - September 2011
         description: | # this will include new lines to allow paragraphs
-          <mark>Case Management System</mark> This application is designed to deal with the cases in the State of Maryland. We designed and developed the project to convert the existing data from legacy database to the domain model.<br /> <br />
-          <mark>Responsibilities</mark><br />
-          - Designed the application from scratch and gathered all the information from Business Analysts.
-          - Involved in Error handling and displaying error messages in the client UI.
-          - Used Agile to meet the deadlines and finish the project in time.
-          - Used Log4j for logging and debugging.
-          - Used Junit for writing test cases for the classes.
-          - Used java to create the domain model for data migration.
-          - Used Spring 3.0 java-based configuration to wire beans together.
-          - Used JMock for test driven development. 
-          - Used JIRA for project and issue tracking during development to speed up the development process.
-          - Used hibernate to store the domain model in the oracle database.
-          - Wrote a test tool for data migration testing using Swing.<br />
-          <mark>Environment</mark> Agile, Java Beans, CVS, SQL Plus, Eclipse 3.4, Oracle 11g, Log4J, Junit, Win Merge,Spring 3.0, Putty, Hibernate 3.0, JMock, JIRA, Swing.
+          <b>Developed Case Management System</b> as Rich Intranet Application (RIA) using Java, JavaScript, Oracle and Hibernate wherein employee can view and mange different stage of a case. Built the project as a test driven development application using mocking framework.
       - layout: left
         title: Express Scripts
         link: www.express-scripts.com
@@ -140,7 +111,9 @@ content:
         sub_title: Senior Java Engineer
         caption: June 2010 - October 2010
         description: | # this will include new lines to allow paragraphs
-            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          <b>Designed and Developed Interactive IVR Framework</b> to connect existing XML front end to existing web services using spring framework to provide interactive IVR experience without talking to a representative.
+          <b>Developed Exception Handling Framework</b> to display errors happening in the backend and middle ware on the UI.
+          <b>Designed and developed a testing frame work</b> using Selenium, Java, Junits, Mockito. 
       - layout: left
         title: State of Maryland
         link: www.courts.state.md.us
@@ -148,7 +121,7 @@ content:
         sub_title: Senior Java Engineer
         caption: July 2009 - June 2010
         description: | # this will include new lines to allow paragraphs
-            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          <b>Designed and developed accounting application</b> to gather revenue from all circuit courts and the district courts in the state of Maryland. Application gather data from the registers placed in different courts in the state and save it to the central database. The clerks of the courts can make adjustments on the money collected in the courts using this application.
       - layout: left
         title: Jackson National Life Insurance
         link: www.jackson.com
@@ -156,7 +129,7 @@ content:
         sub_title: Senior Java Engineer
         caption: June 2008 - June 2009
         description: | # this will include new lines to allow paragraphs
-            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          <b>Enhanced and Transformed Curian Capital, LLC</b> a registered investment advisor that provides a fee-based separately managed account (SMA) platform to financial professionals. With the investor’s personal goals and objectives in mind, Curian Capital and the Financial Professional work together to deliver a comprehensive investment plan that reflects the appropriate risk level for the investor. Investors receive an Investment Policy Statement or financial “roadmap” customized around their unique objectives and risk profile. Curian leverages its internal expertise and that of Rogers Casey, one of the largest investment consultants in the world, to select investment managers and construct portfolios. Each portfolio is designed to pursue optimal performance at the investor’s chosen risk level.
 
   - title: Previous Experience
     layout: text
