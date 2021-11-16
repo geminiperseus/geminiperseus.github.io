@@ -72,9 +72,9 @@ content:
         sub_title: Senior Solutions Architect
         caption: September 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          <mark>GOFOLIO</mark> Gofolio is the tool used by investment managers to create portfolios for clients. There are multiple options available to pick from such as equity, stocks etc.
-          <mark>SFV Designer</mark> SFV Designer is used by operations to create new services and features that are available in multiple other areas for investment managers to choose from.
-          <mark>Fee Calculation Engine</mark> Fee Calculation Engine is used to calculate fees for clients on their 401k services.
+          <mark>GOFOLIO</mark> Gofolio is the tool used by investment managers to create portfolios for clients. There are multiple options available to pick from such as equity, stocks etc.<br /> <br />
+          <mark>SFV Designer</mark> SFV Designer is used by operations to create new services and features that are available in multiple other areas for investment managers to choose from.<br /> <br />
+          <mark>Fee Calculation Engine</mark> Fee Calculation Engine is used to calculate fees for clients on their 401k services.<br /> <br />
       - layout: left
         title: Capital One
         link: www.capitalone.org
