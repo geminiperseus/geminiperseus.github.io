@@ -88,7 +88,7 @@ content:
           - Build business rules using Rule Book.
           - Wrote REST services to fetch data from Oracle database.
           - Used Log4j for logging and debugging.
-          - Used J unit for writing test cases for the classes.
+          - Used J unit for writing test cases for the classes.<br /> <br />
           <mark>Environment:</mark> JIRA, Angular2, Free maker, PL/SQL Developer, AWS, Eclipse 3.4, Gitlab, Spring 3.0, jQuery, Jenkins, JUnit, Log4J, ATDD, Apache Camel, Cucumber, Selenium, Sonar, Java8
       - layout: left
         title: Capital One
@@ -97,7 +97,30 @@ content:
         sub_title: Solutions Architect
         caption: September 2011 - September 2016
         description: | # this will include new lines to allow paragraphs
-            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          <mark>SASSy</mark> SASSy is a system used to handle inbound and outbound phone calls. The letters stand for “Sales Automated Selling System”. This application is written to deal with any customer related issues, and it has the ability to look up the entire details about any given customer.<br /> <br />
+          <mark>TranSite</mark> Capital One 360’s main website is referred as "transite" it provides customer with all the banking options including money transfers, ordering new checkbooks, add or remove joint account holder and much more.<br /> <br />
+          <mark>E-Brochure</mark> E-Brochure is the application that the café associates used to refer products to customers who visited the Capital One 360 cafe. This application is used to track the incentives for the associates along with sending the emails to customers. Application is built using REST APIs and Angular2.<br /> <br />
+          <mark>WESP-DGW</mark> Back end application at Capital One 360 is referred to as WESP-DGW. This application contains all the backend modules that we used to fetch home loans information, send email communications and connect to database to save or retrieve information. It was also used to connect to RTM web services that are located on the Capital One servers.<br /> <br />
+          <mark>ATDD Framework</mark> Lead a team of six developers to build an automation framework for Sassy Application using Selenium, Java & Cucumber. Also provided training to other team to start using this framework in their sprint work. Worked with other teams to implement ATDD.<br /> <br />
+          <mark>eAPI</mark> Converted existing WESP-DGW (SOPA based services) to REST eAPIs using Spring with Jersey framework.<br /> <br />
+          <mark>Responsibilities</mark><br />
+          - Enhanced and supported the bank website and the sales application.
+          - Build the E-Brochure application from scratch and configured it to use velocity template and spring.
+          - Used SVN and Git as code repository for the application along with Win merge as a merge tool.
+          - Used Spring 3.0 as the framework for the applications.
+          - Used Mockito and cucumber for test driven development.
+          - Used Version1 and JIRA for project and issue tracking during development to speed up the development process.
+          - Used Oracle as the database and wrote stored procedures to read and write data.
+          - Used e-cache to cache customer related data to enhance performance of the application.
+          - Used jQuery, AngularJS, XSLT and velocity template to develop the UI for the applications.
+          - Wrote web services and converted old Web services to new JAXB based objects.
+          - Migrated JBPM workflows to AWS simple workflow service and simple notification service.
+          - Designed and wrote public and private eAPIs to fetch accounts and customer information.
+          - Implemented ATDD in our regular sprint work.
+          - Build an automation framework from scratch for Sassy application.
+          - Used Cucumber Selenium and Java to create the automation framework.
+          - Worked with teams to implement Hystrix in our APIs to make APIs more stable.<br /> <br />
+          Environment: Version 1, JIRA, Velocity, PL/SQL Developer, Eclipse 3.4, SVN, Spring 3.0, JBPM, AngularJS, jQuery, Jersey, Junit, AEM 6.0, Log4J, ATDD, Cucumber, Selenium, Hystrix
       - layout: left
         title: State of Maryland
         link: www.courts.state.md.us
