@@ -95,7 +95,6 @@ content:
           - <b>Developed EBrochure:</b> Developed EBrochure application using angular JS and Reset APIs. This application is used to refer new clients that visit Capital One Café.
           - <b>Developed automated call routing:</b> Developed automated call routing for customers who contacted capital one customer services based on customer activity on the website or mobile application. This reduced call time by approximately 50%.
           - <b>Developed Automation Framework:</b> Led a team to develop an automation framework (using selenium, cucumber and java) which was used to automate the testing of capital one 360 website and call center application.
-
       - layout: left
         title: State of Maryland
         link: www.courts.state.md.us
