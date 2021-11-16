@@ -64,7 +64,7 @@ content:
   - title: Skills
     layout: text
     content: |
-      Artificial Intelligence (ML, NLP, Categorization, Anomaly Detection)  DB – ETL (Oracle, DB2, Dynamo DB, Mongo DB, SQL Server, SAS, Rabbit MQ, Kafka)  Business Intelligence and Analytics (Tableau, Kibana & Elastic Search, Splunk)  Programming/Scripting Language (C#,C++,Java, Spark, Tomcat, Spring, Kafka, Angular, JQuery,  MongoDB, Python, SAS, R, ASP.NET)   Integration (REST/SOA/API)  Cloud Implementation (AWS, Azure, Google)  Virtualization (VMWare)  WebSphere (WAS, WMQ,)  DevOps (Jenkins, Electric Flow)  Versioning (Git, Team site, Subversion)  Agile Tools (JIRA, Version 1) AWS Cloud (EC2, Elastic load balancing, EMR, Elastic Search, Kibana, SQS, SNS, Dynamo DB, Route 53, AWS cloud watch, Elastic Beanstalk, Redshaft, Lambda functions, Server less compute, S3 etc.)  Container Services (Docker, Elastic Kubernetes)  ORM tools (Hibernate, iBatis)  Web Frameworks (Struts, JSF, spring, Node JS)  Big Data (Hadoop, Hive, Sqoop, Hive SQL, Map reduce, Pig script, Spark, Impala)  CICD (Jenkins, Electric Flow, Sonar)
+      <mark>Artificial Intelligence</mark> (ML, NLP, Categorization, Anomaly Detection)  <mark>DB – ETL</mark> (Oracle, DB2, Dynamo DB, Mongo DB, SQL Server, SAS, Rabbit MQ, Kafka)  <mark>Business Intelligence and Analytics</mark> (Tableau, Kibana & Elastic Search, Splunk)  <mark>Programming/Scripting Language</mark> (C#,C++,Java, Spark, Tomcat, Spring, Kafka, Angular, JQuery,  MongoDB, Python, SAS, R, ASP.NET) <mark>Integration</mark> (REST/SOA/API) <mark>Cloud Implementation</mark> (AWS, Azure, Google)  <mark>Virtualization</mark> (VMWare)  WebSphere (WAS, WMQ,)  <mark>DevOps</mark> (Jenkins, Electric Flow)  <mark>Versioning</mark> (Git, Team site, Subversion)  <mark>Agile Tools</mark> (JIRA, Version 1) <mark>AWS Cloud</mark> (EC2, Elastic load balancing, EMR, Elastic Search, Kibana, SQS, SNS, Dynamo DB, Route 53, AWS cloud watch, Elastic Beanstalk, Redshaft, Lambda functions, Server less compute, S3 etc.)  <mark>Container Services</mark> (Docker, Elastic Kubernetes, Openshift)  <mark>ORM tools</mark> (Hibernate, iBatis)  <mark>Web Frameworks</mark> (Struts, JSF, spring, Node JS)  <mark>Big Data</mark> (Hadoop, Hive, Sqoop, Hive SQL, Map reduce, Pig script, Spark, Impala)  <mark>CICD</mark> (Jenkins, Electric Flow, Sonar)
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -73,7 +73,7 @@ content:
         link: www.tiaa.org
         #  link_text: tiaa.org
         sub_title: Senior Solutions Architect
-        caption: September 2016 - Present
+        caption: September 2016 - Present<mark>
         description: | # this will include new lines to allow paragraphs
           - <b>Leading initiatives/strategy for driving widespread adoption</b>, deployment, and maturity of Intelligent Automation (Hadoop, Robotics), AWS Cloud and Artificial Intelligence/Machine Learning solutions. Leading end-to-end lifecycle of targeted intelligent workflow-based solutions.
           - <b>Increased application performance</b> by converting mapreduce jobs to java spark, by migrating those jobs to AWS on demand EMR cluster and also by writing an application to generate flat file consumed by mainframe.
