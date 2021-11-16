@@ -48,7 +48,7 @@ linkedin_username: https://www.linkedin.com/in/geminiperseus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  An AWS certified technology professional with 19 years of technical experience in product development and management. Recognized success in creating products from ideation to POC to production. Rich experience of technology leadership in conceptualizing products, formulating technical roadmaps, building/managing high performance teams, delivering award winning products and creating business value.<br /> <br />
+  Strategy and technology leader with expertise in delivering innovative solutions in digital transformation, cloud migration, intelligent automation, implementing cutting-edge technology solutions to provide better customer experience, boost business operations, reduce operating costs and increase revenue. Adept at developing relationship with all stakeholders such as business, tech, risk and dev ops, being able to speak their language and address all requirements. Experience in leveraging emerging technologies for start-up to Fortune 100 companies.<br /> <br />
   I am most skilled in: <mark>Java</mark>, <mark>Spark</mark>, <mark>Spring</mark>, <mark>AWS</mark> and <mark>Angular</mark>
 
 content:      
@@ -72,24 +72,15 @@ content:
         sub_title: Senior Solutions Architect
         caption: September 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          <mark>GOFOLIO</mark> Gofolio is the tool used by investment managers to create portfolios for clients. There are multiple options available to pick from such as equity, stocks etc.<br /> <br />
-          <mark>SFV Designer</mark> SFV Designer is used by operations to create new services and features that are available in multiple other areas for investment managers to choose from.<br /> <br />
-          <mark>Fee Calculation Engine</mark> Fee Calculation Engine is used to calculate fees for clients on their 401k services.<br /> <br />
-          <mark>Responsibilities</mark><br />
-          - Enhanced and build new functions for GOFOLIO application.
-          - Used free-maker template and jQuery to build the UI.
-          - Build SFV designer from scratch using Angular 2 and Spring Boot.
-          - Used rolling data sources in the application to store data in multiple databases.
-          - Created automation scripts for testing.
-          - Used Hadoop to calculate fees for clients.
-          - Migrated Fee Calculation Engine from spark 1.6 to spark 2.
-          - Migrated Fee Calculation Engine to AWS cloud to utilize better resources.
-          - Used Apache Camel AWS along with S3 and SNS services.
-          - Build business rules using Rule Book.
-          - Wrote REST services to fetch data from Oracle database.
-          - Used Log4j for logging and debugging.
-          - Used J unit for writing test cases for the classes.<br />
-          <mark>Environment</mark> JIRA, Angular2, Free maker, PL/SQL Developer, AWS, Eclipse 3.4, Gitlab, Spring 3.0, jQuery, Jenkins, JUnit, Log4J, ATDD, Apache Camel, Cucumber, Selenium, Sonar, Java8
+          - <b>Leading initiatives/strategy for driving widespread adoption</b>, deployment, and maturity of Intelligent Automation (Hadoop, Robotics), AWS Cloud and Artificial Intelligence/Machine Learning solutions. Leading end-to-end lifecycle of targeted intelligent workflow-based solutions.
+          - <b>Increased application performance</b> by converting mapreduce jobs to java spark, by migrating those jobs to AWS on demand EMR cluster and also by writing an application to generate flat file consumed by mainframe.
+          - <b>Owning and driving Digital Transformation:</b> Automated the process of creating transactions in Hadoop and positing those transactions to mainframe backend (OMNI).
+          - <b>Led Development of New Account Balance Platform</b> to migrate old mapreduce based balance platform to java spark, this increased performance and reduced errors in fee and credits transactions.
+          - <b>Developed Machine Learning tool</b> to validate fee and credit transactions which we assessed for different clients using Fee Calculation Engine. This reduced the error rate in those transactions to .01%.
+          - <b>Leading software development teams (Architects/Developers)</b> throughout the development life cycle from project requirement to PROD deployment ensuring deliverables are met. This includes hiring, mentoring, and retaining resources.
+          - <b>Led AWS Cloud Migration:</b> As solution architect led the migration of enterprise applications to AWS cloud by using Elastic Kubernetes containers and EMR clusters.
+          - <b>Implemented CICD pipelines:</b> Developed standards to implement CICD pipelines for enterprise applications using Gitlab, Jenkins and Electric Flow. Also mentored team leads on how to increase code coverage (from 3% to 70%) and code quality (removing code smells, bugs, duplications etc.) by using sonar.
+
       - layout: left
         title: Capital One
         link: www.capitalone.org
