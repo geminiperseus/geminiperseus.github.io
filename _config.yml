@@ -29,15 +29,16 @@ about_content: | # this will include new lines to allow paragraphs
   <br /> Highly accomplished Technology Leader with an active DoD security clearance and over 20 years of experience in the IT industry. Proven track record in driving innovation, delivering strategic solutions, and leading teams in high-pressure environments. Expert in implementing cutting-edge technologies to facilitate digital transformation, cloud migration, and intelligent automation, resulting in enhanced customer experience, optimized business operations, reduced costs, and increased revenue. Recognized as a visionary architect with deep expertise in Java and J2EE technologies, I am passionate about leveraging technology to solve complex business challenges and achieve tangible outcomes.
 
 content:      
-  - title: Value Proposition # Title for the section
+  - title: VALUE PROPOSITION # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
-      - Transforming business needs to value driven solutions in collaboration with all stakeholders
-      - Leading large, complex global products delivery with major focus on Big Data, AI/ML and Cloud technologies
-      - Consistently leading complex, challenging, high visible, fast-paced and demanding firm wide initiatives
-      - Driving Artificial Intelligence/Machine Learning (AI/ML) strategy and Public Cloud blueprints for products transformation within a technology organization
-      - Creating business value through successful AI/ML and Cloud POCs leading to solutions in production
-      - Promoting inclusiveness and partnership by engaging all required teams to build solutions
+      - <b>Transforming Business Needs into Value-Driven Solutions:</b> Expert in aligning business objectives with innovative technology solutions, ensuring that stakeholder requirements are met through collaborative efforts across all levels of the organization.
+      - <b>Leadership in Global Product Delivery:</b> Proven track record of managing and delivering large, complex global products, with a strong focus on leveraging Big Data, AI/ML, and Cloud technologies to drive business transformation and enhance competitive advantage.
+      - <b>Navigating High-Impact Initiatives:</b> Successfully leading complex, high-visibility initiatives that demand strategic thinking and rapid execution, consistently delivering results in fast-paced environments while maintaining a keen focus on quality and stakeholder satisfaction.
+      - <b>Driving AI/ML and Cloud Strategy:</b> Developing and executing comprehensive AI/ML strategies and public cloud blueprints that facilitate product transformation within technology organizations, fostering a culture of innovation and technological advancement.
+      - <b>Creating Tangible Business Value:</b> Spearheading successful AI/ML and Cloud proofs of concept (POCs) that transition into production-ready solutions, delivering measurable business value and driving operational efficiency.
+      - <b>Promoting Inclusiveness and Collaboration:</b> Advocating for a collaborative and inclusive approach by actively engaging all necessary teams—engineering, product management, and business stakeholders—to co-create innovative solutions that meet diverse needs and enhance overall effectiveness.
+
   - title: TECHNICAL PROFICIENCY
     layout: text
     content: |
