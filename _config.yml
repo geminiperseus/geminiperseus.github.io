@@ -10,6 +10,7 @@ name: Hur Muhammad
 title: Solutions Architect
 email: hur.info@gmail.com
 website: www.github.com/geminiperseus
+phone: 302-357-4641
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -17,38 +18,16 @@ darkmode: false
 # Social links
 twitter_username: https://www.linkedin.com/in/geminiperseus
 github_username:  geminiperseus
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+
 instagram_username: https://www.linkedin.com/in/geminiperseus
 linkedin_username: https://www.linkedin.com/in/geminiperseus
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <br /> <br /> Strategy and technology leader with expertise in delivering innovative solutions in digital transformation, cloud migration, intelligent automation, implementing cutting-edge technology solutions to provide better customer experience, boost business operations, reduce operating costs and increase revenue. Adept at developing relationship with all stakeholders such as business, tech, risk and dev ops, being able to speak their language and address all requirements. Experience in leveraging emerging technologies for start-up to Fortune 100 companies.
+  <br /> <br /> Highly accomplished Technology Leader with an active DoD security clearance and over 15 years of experience in the IT industry. Proven track record in driving innovation, delivering strategic solutions, and leading teams in high-pressure environments. Expert in implementing cutting-edge technologies to facilitate digital transformation, cloud migration, and intelligent automation, resulting in enhanced customer experience, optimized business operations, reduced costs, and increased revenue. Recognized as a visionary architect with deep expertise in Java and J2EE technologies, I am passionate about leveraging technology to solve complex business challenges and achieve tangible outcomes.
 
 content:      
   - title: Value Proposition # Title for the section
@@ -74,14 +53,17 @@ content:
         sub_title: Senior Solutions Architect
         caption: September 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          - <b>Leading initiatives/strategy for driving widespread adoption</b>, deployment, and maturity of Intelligent Automation (Hadoop, Robotics), AWS Cloud and Artificial Intelligence/Machine Learning solutions. Leading end-to-end lifecycle of targeted intelligent workflow-based solutions.
-          - <b>Increased application performance</b> by converting mapreduce jobs to java spark, by migrating those jobs to AWS on demand EMR cluster and also by writing an application to generate flat file consumed by mainframe.
-          - <b>Owning and driving Digital Transformation:</b> Automated the process of creating transactions in Hadoop and positing those transactions to mainframe backend (OMNI).
-          - <b>Led Development of New Account Balance Platform</b> to migrate old mapreduce based balance platform to java spark, this increased performance and reduced errors in fee and credits transactions.
-          - <b>Developed Machine Learning tool</b> to validate fee and credit transactions which we assessed for different clients using Fee Calculation Engine. This reduced the error rate in those transactions to .01%.
-          - <b>Leading software development teams (Architects/Developers)</b> throughout the development life cycle from project requirement to PROD deployment ensuring deliverables are met. This includes hiring, mentoring, and retaining resources.
-          - <b>Led AWS Cloud Migration:</b> As solution architect led the migration of enterprise applications to AWS cloud by using Elastic Kubernetes containers and EMR clusters.
-          - <b>Implemented CICD pipelines:</b> Developed standards to implement CICD pipelines for enterprise applications using Gitlab, Jenkins and Electric Flow. Also mentored team leads on how to increase code coverage (from 3% to 70%) and code quality (removing code smells, bugs, duplications etc.) by using sonar.
+          - Enhanced existing features and developed new functionalities for the GOFOLIO application, improving user interface design with Free Marker templates and jQuery.
+          - Created the SFV Designer from scratch using Angular 2 and Spring Boot, allowing operations to create new services and features efficiently.
+          - Implemented rolling data sources to efficiently store and manage data across multiple databases, leveraging Hadoop for accurate fee calculations for clients.
+          - Designed and implemented big data solutions using Hadoop ecosystem components, including HDFS, MapReduce, Hive, and Pig for Fee Calculation Engine.
+          -	Implemented data ingestion processes using Apache Sqoop, facilitating seamless data transfer from relational databases and streaming sources into HDFS.
+          - Ensured data security and compliance by implementing Hadoop security features, including Kerberos authentication and HDFS encryption.
+          - Conducted troubleshooting and performance tuning of Hadoop jobs, reducing execution time and resource consumption.
+          - Successfully transitioned the Fee Calculation Engine to AWS Cloud (EMR), enhancing scalability and resource utilization while reducing operational costs.
+          - Developed business rules using Rule Book to improve application logic and wrote REST services to fetch data from an Oracle database seamlessly.
+          - Employed Log4j for effective logging and debugging and implemented unit tests with JUnit to ensure code reliability and maintainability.
+
 
       - layout: left
         title: Capital One
