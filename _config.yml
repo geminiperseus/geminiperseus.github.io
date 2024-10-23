@@ -10,7 +10,7 @@ name: Hur Muhammad
 title: Solutions Architect
 email: hur.info@gmail.com
 website: www.github.com/geminiperseus
-phone: 302-357-4641
+phone: <b>302-357-4641</b>
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -27,7 +27,7 @@ linkedin_username: https://www.linkedin.com/in/geminiperseus
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <br /> <br /> Highly accomplished Technology Leader with an active DoD security clearance and over 15 years of experience in the IT industry. Proven track record in driving innovation, delivering strategic solutions, and leading teams in high-pressure environments. Expert in implementing cutting-edge technologies to facilitate digital transformation, cloud migration, and intelligent automation, resulting in enhanced customer experience, optimized business operations, reduced costs, and increased revenue. Recognized as a visionary architect with deep expertise in Java and J2EE technologies, I am passionate about leveraging technology to solve complex business challenges and achieve tangible outcomes.
+  <br /> Highly accomplished Technology Leader with an active DoD security clearance and over 20 years of experience in the IT industry. Proven track record in driving innovation, delivering strategic solutions, and leading teams in high-pressure environments. Expert in implementing cutting-edge technologies to facilitate digital transformation, cloud migration, and intelligent automation, resulting in enhanced customer experience, optimized business operations, reduced costs, and increased revenue. Recognized as a visionary architect with deep expertise in Java and J2EE technologies, I am passionate about leveraging technology to solve complex business challenges and achieve tangible outcomes.
 
 content:      
   - title: Value Proposition # Title for the section
@@ -39,13 +39,22 @@ content:
       - Driving Artificial Intelligence/Machine Learning (AI/ML) strategy and Public Cloud blueprints for products transformation within a technology organization
       - Creating business value through successful AI/ML and Cloud POCs leading to solutions in production
       - Promoting inclusiveness and partnership by engaging all required teams to build solutions
-  - title: Skills
+  - title: TECHNICAL PROFICIENCY
     layout: text
     content: |
-      <mark>Artificial Intelligence</mark> (ML, NLP, Categorization, Anomaly Detection)  <mark>DB – ETL</mark> (Oracle, DB2, Dynamo DB, Mongo DB, SQL Server, SAS, Rabbit MQ, Kafka)  <mark>Business Intelligence and Analytics</mark> (Tableau, Kibana & Elastic Search, Splunk)  <mark>Programming/Scripting Language</mark> (C#,C++,Java, Spark, Tomcat, Spring, Kafka, Angular, JQuery,  MongoDB, Python, SAS, R, ASP.NET) <mark>Integration</mark> (REST/SOA/API) <mark>Cloud Implementation</mark> (AWS, Azure, Google) <mark>Virtualization</mark> (VMWare) <mark>DevOps</mark> (Jenkins, Electric Flow) <mark>Versioning</mark> (Git, Team site, Subversion) <mark>Agile Tools</mark> (JIRA, Version 1) <mark>AWS Cloud</mark> (EC2, Elastic load balancing, EMR, Elastic Search, Kibana, SQS, SNS, Dynamo DB, Route 53, AWS cloud watch, Elastic Beanstalk, Redshaft, Lambda functions, Server less compute, S3 etc.)  <mark>Container Services</mark> (Docker, Elastic Kubernetes, Openshift)  <mark>ORM tools</mark> (Hibernate, iBatis)  <mark>Web Frameworks</mark> (Struts, JSF, spring, Node JS)  <mark>Big Data</mark> (Hadoop, Hive, Sqoop, Hive SQL, Map reduce, Pig script, Spark, Impala)  <mark>CICD</mark> (Jenkins, Electric Flow, Sonar)
-  - title: Experience # Title for the section
+      -	Expert in programming languages Java, C#, VB.NET, PHP, Cold Fusion and Python
+      -	Strong knowledge of Struts, Spring (MVC, Web Flow), Spring boot, JSP, Servlets and various design patterns to ensure maintainable and scalable code
+      -	Proficient in AJAX, JavaScript, Angular, React, HTML, XML, jQuery, and DOJO for Rich Internet Applications
+      -	Skilled in designing and consuming web services (XML-RPC, SOAP, WSDL, RESTful) for seamless system integration
+      -	Developed and managed infrastructure as code (IaC) using AWS CloudFormation and Terraform for efficient resource provisioning.
+      -	Extensive experience with Oracle, Postgres, Mongo, SQL Server, and MySQL, including SQL and PL/SQL development for efficient data handling
+      -	Excellent communicator and proactive team player, adept at engaging stakeholders, driving projects forward, and leading cross-functional teams
+      -	Proficient in designing, deploying, and managing applications on AWS using services such as EC2, S3, RDS, EKS, Route53, Cloud Front etc.
+      -	Proficient in designing and building big data applications using Java with Apache Spark and the Hadoop ecosystem (Hive, Sqoop, Hive SQL, Map reduce, Pig script), optimizing data processing capabilities through efficient use of Spark's in-memory computation and Hadoop's distributed storage. Experienced in developing ETL processes to ingest, transform, and analyze large datasets, leading to improved decision-making and operational efficiency.
+
+  - title: EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: 
       - layout: left
         title: USCIS
         link: www.uscis.com
@@ -53,7 +62,7 @@ content:
         sub_title: Solutions Architect
         caption: Sep 2023 - Present
         description: | # this will include new lines to allow paragraphs
-          The E-Verify application is a free, internet-based system that helps employers confirm a new hire's employment eligibility. <br/><br/>
+          The E-Verify application is a free, internet-based system that helps employers confirm a new hire's employment eligibility. <br/>
           - Designed and deployed new features for the web application using Spring Boot and AWS services (EC2, S3, EKS), enhancing user experience and functionality.
           -	Established automated deployment pipelines with GitHub Actions, significantly enhancing CI/CD efficiency and reducing manual errors.
           -	Developed RESTful APIs, integrated Istio service mesh for improved microservices management, ensuring seamless communication and reliability.
@@ -69,7 +78,7 @@ content:
         sub_title: Solutions Architect
         caption: November 2020 - Aug 2023
         description: | # this will include new lines to allow paragraphs
-          Thrivent’s Mobile App provides a personalized and secure way to manage finances, including insurance and investment accounts. <br/><br/>
+          Thrivent’s Mobile App provides a personalized and secure way to manage finances, including insurance and investment accounts. <br/>
           - Designed and developed RESTful APIs and GraphQL endpoints to facilitate seamless communication between front-end and back-end systems, optimizing data exchange and user experience.
           -	Implemented API authentication and authorization using OAuth 2.0 and JWT for REST APIs, enhancing security and user access control.
           -	Developed flexible GraphQL schemas to enable clients to request only the data they need, improving efficiency and reducing payload sizes.
@@ -90,6 +99,7 @@ content:
         sub_title: Big Data Architect
         caption: September 2016 - November 2020
         description: | # this will include new lines to allow paragraphs
+          Led various projects to develop financial management tools for investment managers.<br/>
           - Enhanced existing features and developed new functionalities for the GOFOLIO application, improving user interface design with Free Marker templates and jQuery.
           - Created the SFV Designer from scratch using Angular 2 and Spring Boot, allowing operations to create new services and features efficiently.
           - Implemented rolling data sources to efficiently store and manage data across multiple databases, leveraging Hadoop for accurate fee calculations for clients.
@@ -109,7 +119,7 @@ content:
         sub_title: Tech Lead
         caption: September 2011 - September 2016
         description: | # this will include new lines to allow paragraphs
-          Executed multiple projects for Bank and Card division by managing strategy and operations whilst ensuring adherence to regulatory compliance like ADA, CFPB, AML, FDIC and Dodd-Frank. <br/> <br/>
+          Executed multiple projects for Bank and Card division by managing strategy and operations whilst ensuring adherence to regulatory compliance like ADA, CFPB, AML, FDIC and Dodd-Frank. <br/> 
           - <b>Implemented Robotic Automation</b> in Call Centers and Mortgage Line of Business: Led product strategy, architecture and development for the pioneer initiative to implement Robotic automations in Capital One call centers. Automated and deployed 16 processes across 5 call centers that resulted in anticipated saving ~3 million dollars in the very first year.  Responsible for architecture design, coding, testing and product release. 
           - <b>Implemented the next gen CTI/IVR platform</b> for Contact Centers:  Evaluated next gen CTI/IVR platforms for Retail Banking Contact Centers from various vendors such as Avaya and Cisco. Integrated Omni-Channel platforms that resulted from acquisitions. Implemented Voice Biometric Authentication using NICE platform in contact centers for customer authentication.
           - <b>Led AWS Cloud Migration and Enterprise Product Development:</b> As solution architect led the cloud first initiative by migrating their existing legacy applications to AWS platform. Re-engineered architecture by moving from traditional web services to APIs and micro services. Led and manage multiple agile development teams (on Java, Cassandra, ASP.NET, C#, SQL Server, Node.js, jQuery and JS using RESTful API’s and micro services-). DevOps and Automation using CICD tools such as Jenkins/Maven). 
@@ -151,7 +161,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b>Enhanced and Transformed Curian Capital, LLC</b> a registered investment advisor that provides a fee-based separately managed account (SMA) platform to financial professionals. With the investor’s personal goals and objectives in mind, Curian Capital and the Financial Professional work together to deliver a comprehensive investment plan that reflects the appropriate risk level for the investor. Investors receive an Investment Policy Statement or financial “roadmap” customized around their unique objectives and risk profile. Curian leverages its internal expertise and that of Rogers Casey, one of the largest investment consultants in the world, to select investment managers and construct portfolios. Each portfolio is designed to pursue optimal performance at the investor’s chosen risk level.
 
-  - title: Previous Experience
+  - title: PRIOR EXPERIENCE
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Ciberwiz Inc : January 2008 – June 2008 Senior Java Engineer
