@@ -16,10 +16,10 @@ phone: 302-357-4641
 darkmode: false
 
 # Social links
-twitter_username: https://www.linkedin.com/in/geminiperseus
+#twitter_username: https://www.linkedin.com/in/geminiperseus
 github_username:  geminiperseus
 
-instagram_username: https://www.linkedin.com/in/geminiperseus
+#instagram_username: https://www.linkedin.com/in/geminiperseus
 linkedin_username: https://www.linkedin.com/in/geminiperseus
 
 
@@ -47,11 +47,48 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: USCIS
+        link: www.uscis.com
+        #  link_text: uscis.com
+        sub_title: Solutions Architect
+        caption: Sep 2023 - Present
+        description: | # this will include new lines to allow paragraphs
+          The E-Verify application is a free, internet-based system that helps employers confirm a new hire's employment eligibility. <br/><br/>
+          - Designed and deployed new features for the web application using Spring Boot and AWS services (EC2, S3, EKS), enhancing user experience and functionality.
+          -	Established automated deployment pipelines with GitHub Actions, significantly enhancing CI/CD efficiency and reducing manual errors.
+          -	Developed RESTful APIs, integrated Istio service mesh for improved microservices management, ensuring seamless communication and reliability.
+          -	Created and maintained an automated testing framework using Cucumber, incorporating mocks and Gherkin syntax for behavior-driven development (BDD), increasing test coverage and quality.
+          -	Developed and maintained cloud infrastructure with AWS services, utilizing CloudFormation for provisioning and CloudWatch for monitoring, leading to improved operational efficiency.
+          -	Established security best practices across AWS services, focusing on IAM for access control, KMS for encryption, and CloudTrail for logging and auditing to meet federal compliance requirements.
+          -	Developed and implemented automated backup and disaster recovery solutions using AWS services (EBS for storage and S3 for data redundancy), ensuring data integrity and availability.
+
+      - layout: left
+        title: Thrivent
+        link: www.thrivent.com
+        #  link_text: thrivent.com
+        sub_title: Solutions Architect
+        caption: November 2020 - Aug 2023
+        description: | # this will include new lines to allow paragraphs
+          Thrivent’s Mobile App provides a personalized and secure way to manage finances, including insurance and investment accounts. <br/><br/>
+          - Designed and developed RESTful APIs and GraphQL endpoints to facilitate seamless communication between front-end and back-end systems, optimizing data exchange and user experience.
+          -	Implemented API authentication and authorization using OAuth 2.0 and JWT for REST APIs, enhancing security and user access control.
+          -	Developed flexible GraphQL schemas to enable clients to request only the data they need, improving efficiency and reducing payload sizes.
+          -	Collaborated with cross-functional teams to define API requirements and specifications, ensuring alignment with business objectives and user needs.
+          -	Monitored and logged API usage and performance metrics using tools like AWS CloudWatch and ELK Stack, facilitating proactive issue resolution.
+          -	Developed API versioning strategies for REST APIs to maintain backward compatibility while introducing new features and enhancements.
+          -	Created comprehensive API documentation for both REST and GraphQL, improving usability and adoption among developers and stakeholders.
+          -	Developed a tool for generating marketing and promotional emails, streamlining customer outreach and engagement efforts.
+          -	Successfully migrated Kong API Gateway to Istio service mesh on Elastic Kubernetes (EKS), resulting in a 50% reduction in infrastructure costs and a 40% increase in scalability.
+          -	Developed CI/CD pipelines for REST APIs using GitHub Actions, leading to a 60% reduction in deployment time and a 30% increase in deployment frequency.
+          -	Managed cloud infrastructure using AWS services, including CloudFormation and CloudWatch, achieving a 25% reduction in downtime and a 20% increase in application availability. 
+
+
+      - layout: left
         title: TIAA Cref
         link: www.tiaa.org
         #  link_text: tiaa.org
-        sub_title: Senior Solutions Architect
-        caption: September 2016 - Present
+        sub_title: Big Data Architect
+        caption: September 2016 - November 2020
         description: | # this will include new lines to allow paragraphs
           - Enhanced existing features and developed new functionalities for the GOFOLIO application, improving user interface design with Free Marker templates and jQuery.
           - Created the SFV Designer from scratch using Angular 2 and Spring Boot, allowing operations to create new services and features efficiently.
@@ -69,10 +106,10 @@ content:
         title: Capital One
         link: www.capitalone.org
         #  link_text: tiaa.org
-        sub_title: Solutions Architect
+        sub_title: Tech Lead
         caption: September 2011 - September 2016
         description: | # this will include new lines to allow paragraphs
-          Reported to Senior Director. Executed multiple projects for Bank and Card division by managing strategy and operations whilst ensuring adherence to regulatory compliance like ADA, CFPB, AML, FDIC and Dodd-Frank. <br/> <br/>
+          Executed multiple projects for Bank and Card division by managing strategy and operations whilst ensuring adherence to regulatory compliance like ADA, CFPB, AML, FDIC and Dodd-Frank. <br/> <br/>
           - <b>Implemented Robotic Automation</b> in Call Centers and Mortgage Line of Business: Led product strategy, architecture and development for the pioneer initiative to implement Robotic automations in Capital One call centers. Automated and deployed 16 processes across 5 call centers that resulted in anticipated saving ~3 million dollars in the very first year.  Responsible for architecture design, coding, testing and product release. 
           - <b>Implemented the next gen CTI/IVR platform</b> for Contact Centers:  Evaluated next gen CTI/IVR platforms for Retail Banking Contact Centers from various vendors such as Avaya and Cisco. Integrated Omni-Channel platforms that resulted from acquisitions. Implemented Voice Biometric Authentication using NICE platform in contact centers for customer authentication.
           - <b>Led AWS Cloud Migration and Enterprise Product Development:</b> As solution architect led the cloud first initiative by migrating their existing legacy applications to AWS platform. Re-engineered architecture by moving from traditional web services to APIs and micro services. Led and manage multiple agile development teams (on Java, Cassandra, ASP.NET, C#, SQL Server, Node.js, jQuery and JS using RESTful API’s and micro services-). DevOps and Automation using CICD tools such as Jenkins/Maven). 
@@ -130,21 +167,6 @@ content:
         title: UCP
         caption: 2001 - 2004
         sub_title: MSc Computer Science
-        quote: > 
-          A child without education is like a bird without wings.          
-        description: | # this will include new lines to allow paragraphs
-          During my time at UCP I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-  - title: When I'm Not Programming
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Cricket
-      - Gaming
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
