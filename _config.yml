@@ -71,7 +71,7 @@ content:
           -	Established security best practices across AWS services, focusing on IAM for access control, KMS for encryption, and CloudTrail for logging and auditing to meet federal compliance requirements.
           -	Developed and implemented automated backup and disaster recovery solutions using AWS services (EBS for storage and S3 for data redundancy), ensuring data integrity and availability.
 
-      - layout: left
+      - layout: right
         title: Thrivent
         link: www.thrivent.com
         #  link_text: thrivent.com
@@ -112,7 +112,7 @@ content:
           - Employed Log4j for effective logging and debugging and implemented unit tests with JUnit to ensure code reliability and maintainability.
 
 
-      - layout: left
+      - layout: right
         title: Capital One
         link: www.capitalone.org
         #  link_text: tiaa.org
@@ -134,7 +134,7 @@ content:
         caption: October 2010 - September 2011
         description: | # this will include new lines to allow paragraphs
           <b>Developed Case Management System</b> as Rich Intranet Application (RIA) using Java, JavaScript, Oracle and Hibernate wherein employee can view and mange different stage of a case. Built the project as a test driven development application using mocking framework.
-      - layout: left
+      - layout: right
         title: Express Scripts
         link: www.express-scripts.com
         #  link_text: tiaa.org
@@ -152,7 +152,7 @@ content:
         caption: July 2009 - June 2010
         description: | # this will include new lines to allow paragraphs
           <b>Designed and developed accounting application</b> to gather revenue from all circuit courts and the district courts in the state of Maryland. Application gather data from the registers placed in different courts in the state and save it to the central database. The clerks of the courts can make adjustments on the money collected in the courts using this application.
-      - layout: left
+      - layout: right
         title: Jackson National Life Insurance
         link: www.jackson.com
         #  link_text: tiaa.org
